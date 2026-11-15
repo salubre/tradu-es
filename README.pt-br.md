@@ -228,22 +228,8 @@ Os arquivos JSON também usam UTF-8 e têm a seguinte estrutura:
 
 Você obtém o número do capítulo e do versículo pelo índice do array.
 
-### E a licença e os direitos autorais?
 
-A [Licença MIT](LICENSE) cobre apenas a estrutura dos arquivos, os scripts e o trabalho de formatação deste projeto. Ela **não** concede nenhum direito sobre os textos bíblicos em si.
-
-O texto de cada versão pertence a seus autores, editoras ou detentores de direitos, que mantêm todos os direitos. Poder usá-lo, especialmente em uso comercial, redistribuição ou publicação em um app, depende da licença do proprietário de cada versão. Algumas versões são de domínio público, mas outras são protegidas, e este projeto não verificou a situação de cada uma. Cabe a você conferir os termos de cada versão que usar.
-
-Se você é detentor de direitos e quer que uma versão seja creditada de outra forma ou removida, siga a [política de remoção](TAKEDOWN.md); o pedido pode ser feito por uma issue no GitHub.
-
-Os dados são fornecidos "como estão", sem garantia de qualquer tipo, e o mantenedor não se responsabiliza pelo uso feito por terceiros. Cabe a você cumprir a licença de cada versão que usar.
-
-### Como posso ajudar o projeto?
-
-Você pode revisar o código, melhorar as estruturas ou trabalhar em novas versões. Toda ajuda é bem-vinda! :)
 
 ### Posso doar para o projeto?
 
-Sim, pode! Você pode fazer uma doação voluntária pelo [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="assets/paypal-donate-button.png" alt="Donate" width="400"></a>
+Sim, pode! Você pode fazer uma doação voluntária 
