@@ -27,8 +27,6 @@ JSON e XML limpos e estruturados por versículo — sem HTML, sem ruído de marc
 
 Quer criar um app de Bíblia? Que tal uma API de busca de versículos? Agora você pode, usando fontes no seu próprio idioma! O principal objetivo deste projeto é permitir que as pessoas criem apps relacionados à Bíblia usando XML e JSON. Gostou da ideia? Ajude-nos a ir ainda mais longe. **Apoie este projeto! :)**
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="assets/paypal-donate-button.png" alt="Donate" width="400"></a>
-
 ## Como os arquivos foram gerados?
 
 Os arquivos-fonte foram gerados por um crawler escrito em Python. Por isso, eles podem conter pequenos problemas de codificação e sintaxe.
